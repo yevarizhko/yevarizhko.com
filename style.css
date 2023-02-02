@@ -1,5 +1,5 @@
 :root {
-    --background-color: #0f1923;
+    --background-color: #ffffff;
 }
 
 body {
@@ -61,7 +61,7 @@ body {
     --button-text-color-hover: var(--button-background-color);
     --border-color: #7D8082;
     --button-background-color: #ece8e1;
-    --highlight-color: #E60D2E;
+    --highlight-color: #272524;
     --button-inner-border-color: transparent;
     --button-bits-color: var(--background-color);
     --button-bits-color-hover: var(--button-background-color);
@@ -178,8 +178,8 @@ body {
     --button-background-color: var(--background-color);
     --button-text-color: var(--highlight-color);
     --button-inner-border-color: var(--highlight-color);
-    --button-text-color-hover: #ece8e1;
-    --button-bits-color-hover: #ece8e1;
+    --button-text-color-hover: #fff;
+    --button-bits-color-hover: #fff;
 }
 
 .btn--dark {
